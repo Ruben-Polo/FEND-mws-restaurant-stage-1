@@ -1,4 +1,4 @@
-﻿# FrontEnd NanoDegree Arcade Game
+﻿# FrontEnd NanoDegree Restaurant App
 
 This project is part of Udacity's Front-End Web Developer Nanodegree Program.
 ## Table of Contents
